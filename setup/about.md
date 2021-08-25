@@ -1,4 +1,0 @@
-# SETUP
-
-## References
-
